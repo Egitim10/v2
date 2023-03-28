@@ -1,3 +1,4 @@
+# v1
 # v2 
-This project is only resource to demonstrate Dockerfile Add keyword
-Nothing special in it....
+These two  projects "V1,V2" are only resources. 
+I used them just to show how we can override build argument which is defined with Add key in Dockerfile
